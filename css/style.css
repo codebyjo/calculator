@@ -18,8 +18,11 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 html {
 	height: 100%;
 	background: white;
-	background: radial-gradient(circle, #fff 20%, #ccc);
 	background-size: cover;
+}
+
+h2, footer {
+	text-align: center;
 }
 
 .container
